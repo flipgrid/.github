@@ -1,0 +1,2 @@
+# .github
+flipgrid .github config
